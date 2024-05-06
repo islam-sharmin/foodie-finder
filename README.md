@@ -1,8 +1,14 @@
-# React + Vite
+# Foodie Finder
+# Live site URL: https://foodie-finder-fb341.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
+1. real estate restaurant website home page contain navbar, banner, restaurant cards etc.
+2. login and registeer page
+3. secure user information
+4. upadate profile user can update the name and photo
+5. contact information easy to find.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# npm packages:
+1. Aos package
+2. swiper slider
+3. react-reaflets
