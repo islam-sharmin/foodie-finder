@@ -1,0 +1,75 @@
+[
+    {
+      "estate_title": "Prime Downtown Space",
+      "id": 1,
+      "segment_name": "Commercial",
+      "description": "Spacious restaurant property in the heart of downtown, ideal for a bustling eatery.",
+      "price": "$10,000/month",
+      "Status": "rent",
+      "Area": "3000 sq ft",
+      "location": "Downtown District",
+      "facilities": ["Large dining area", "Fully equipped kitchen", "Outdoor seating"],
+      "image_url": "https://i.ibb.co/D4xqVRF/restaurant1.jpg"
+    },
+    {
+      "estate_title": "High-End Waterfront View",
+      "id": 2,
+      "segment_name": "Commercial",
+      "description": "Luxurious restaurant space offering stunning waterfront views.",
+      "price": "$2,500,000",
+      "Status": "sale",
+      "Area": "4000 sq ft",
+      "location": "Waterfront District",
+      "facilities": ["Spacious lounge area", "State-of-the-art kitchen", "Private dining rooms"],
+      "image_url": "https://i.ibb.co/YkpbBVz/restaurent2.jpg"
+    },
+    {
+      "estate_title": "Cozy Cafe in Trendy Neighborhood",
+      "id": 3,
+      "segment_name": "Commercial",
+      "description": "Charming cafe space located in a popular and trendy neighborhood.",
+      "price": "$5,000/month",
+      "Status": "rent",
+      "Area": "1200 sq ft",
+      "location": "Arts District",
+      "facilities": ["Quaint seating area", "Functional kitchenette", "Street-level entrance"],
+      "image_url": "https://i.ibb.co/G2kjksY/restaurant3.jpg"
+    },
+    {
+      "estate_title": "Modern Rooftop Terrace",
+      "id": 4,
+      "segment_name": "Commercial",
+      "description": "Contemporary restaurant with a spacious rooftop terrace for outdoor dining.",
+      "price": "$1,800,000",
+      "Status": "sale",
+      "Area": "2500 sq ft",
+      "location": "City Center",
+      "facilities": ["Open-plan layout", "Rooftop bar", "Well-designed dining area"],
+      "image_url": "https://i.ibb.co/TYmD26H/restaurant4.jpg"
+    },
+    {
+      "estate_title": "Historic Space with Character",
+      "id": 5,
+      "segment_name": "Commercial",
+      "description": "Historic building converted into a unique restaurant space full of charm.",
+      "price": "$8,500/month",
+      "Status": "rent",
+      "Area": "1800 sq ft",
+      "location": "Old Town District",
+      "facilities": ["Exposed brick walls", "Vintage decor", "Functional kitchen setup"],
+      "image_url": "https://i.ibb.co/0tbLMfp/restaurant5.jpg"
+    },
+    {
+      "estate_title": "Turnkey Restaurant Opportunity",
+      "id": 6,
+      "segment_name": "Commercial",
+      "description": "Fully equipped restaurant ready for immediate operation.",
+      "price": "$350,000",
+      "Status": "sale",
+      "Area": "1500 sq ft",
+      "location": "Business Park",
+      "facilities": ["Well-designed dining area", "High-end kitchen appliances", "Ample parking"],
+      "image_url": "https://i.ibb.co/HN69chr/restaurant6.jpg"
+    }
+  ]
+  
